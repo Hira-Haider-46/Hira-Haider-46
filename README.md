@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hira Haider 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=7A7ADB&center=true&width=550&lines=Frontend+Developer;React+%7C+Next.js+%7C+React+Native;Passionate+Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=7A7ADB&center=true&width=550&lines=Frontend+Developer;React+%7C+Next.js+%7C+React+Native;" alt="Typing SVG" />
 </p>
 
 ---
