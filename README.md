@@ -17,27 +17,15 @@ Currently pursuing a **BS in Computer Science** at **UCP, Pakistan**, I continuo
 ## 🛠 Tech Stack  
 
 ### 🔧 Languages & Frameworks  
-- **JavaScript**, **TypeScript**, **C++**  
+- **JavaScript**, **TypeScript**  
 - **MongoDB**, **Express.js**, **React.js**, **Next.js**, **Node.js**  
 - **React Native**, **Redux**, **Tailwind CSS**, **HTML5**, **CSS3**
 
 ### 🛢 Database & Back-End  
-- **MongoDB**, **Express.js**, **REST APIs**, **GraphQL (if applicable)**
+- **MongoDB**, **Express.js**, **REST APIs**
 
 ### ⚙️ Tools & Platforms  
 - **Git / GitHub**, **VS Code**, **Postman**, **Figma**
-
----
-
-## 🚀 Select Projects  
-
-- **[Project Name]** – MERN-powered web app (e.g. “Real-time chat platform”): React on the front-end, Node.js/Express back-end, MongoDB storage, deployed on Vercel/Heroku.  
-- **[Project Name]** – Next.js SSR site (e.g. blog/e-commerce), optimized SEO, built using Next.js and Tailwind.  
-- **[Project Name]** – React Native mobile app (e.g. fitness tracker), integrated with Redux and RESTful API.
-
-*(Feel free to populate with your best work: titles, technologies, deployment URL, GitHub links, and measurable results.)*
-
----
 
 ## 📈 GitHub Stats  
 <p align="center">
